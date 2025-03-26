@@ -1,7 +1,7 @@
 📄 Dokumentasi Website Portofolio
 
 📌 Deskripsi Proyek 
-Ini adalah proyek website portofolio yang menampilkan informasi tentang seorang Web Developer & UI/UX Designer. Website ini mencakup **profil, keahlian, proyek, pengalaman, sertifikat, dan kontak.
+Ini adalah proyek website portofolio yang menampilkan informasi tentang seorang Web Developer & UI/UX Designer. Website ini mencakup profil, keahlian, proyek, pengalaman, sertifikat, dan kontak.
 
 Website ini dibuat menggunakan:  
 - HTML→ Struktur halaman  
@@ -46,8 +46,8 @@ Website ini dibuat menggunakan:
 
 ---
 
-🛠 Cara Mengganti Data Dummy**  
-1. Buka `index.html`**, lalu cari bagian:  
+🛠 Cara Mengganti Data Dummy
+1. Buka `index.html`, lalu cari bagian:  
    ```html
    <h1>John Doe</h1>
    <p>Graphic Design | UI/UX Designer | Web Developer</p>
